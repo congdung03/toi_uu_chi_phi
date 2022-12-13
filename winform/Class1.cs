@@ -56,14 +56,14 @@ public class Graph
     public string Path( string e)
     {
         string result;
-        int start = 0; int end = 0;
+        int end = 0;
+
         for (int i = 0; i < nVerts; i++)
         {
-            
-           // if (vertexList[i].label == s) start = i;
             if (vertexList[i].label == e) end = i;
         }
-        return Path( end);
+        if (end == 0) return "(ERROR) Không tìm thấy đường đi";
+        else return Path( end);
     }
 
     // khi ấn vào button sẽ thực hiện hàm này
@@ -89,6 +89,8 @@ public class Graph
             AdjustShortPath();
         }
         long s = sPath[e].distance;
+
+
         result = result + $"shortest path from {vertexList[0].label} to {vertexList[e].label}: ";
         result = result + "\r\n";
         par[0] = 0;

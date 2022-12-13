@@ -54,17 +54,7 @@ namespace winform
                 textBox3.Text = theGraph.Path(input);
             }
         }
-/*        void AddTextbox()
-        {
-            TextBox textBox3 = new TextBox();
-            
-            textBox3.Location = new System.Drawing.Point(423, 362);
-            textBox3.Multiline = true;
-            textBox3.Name = "textBox3";
-            textBox3.Size = new System.Drawing.Size(379, 128);
-            textBox3.TabIndex = 4;
-            textBox3.Text = input;
-        }*/
+
     
     }
 }

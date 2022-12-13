@@ -9,3 +9,14 @@ D:\lập trình\C#\winform\winform\obj\Debug\winform.csproj.CoreCompileInputs.ca
 D:\lập trình\C#\winform\winform\obj\Debug\winform.exe
 D:\lập trình\C#\winform\winform\obj\Debug\winform.pdb
 D:\lập trình\C#\winform\winform\obj\Debug\winform.test.resources
+D:\lập trình\toi_uu_chi_phi\winform\bin\Debug\winform.exe.config
+D:\lập trình\toi_uu_chi_phi\winform\bin\Debug\winform.exe
+D:\lập trình\toi_uu_chi_phi\winform\bin\Debug\winform.pdb
+D:\lập trình\toi_uu_chi_phi\winform\obj\Debug\winform.csproj.AssemblyReference.cache
+D:\lập trình\toi_uu_chi_phi\winform\obj\Debug\winform.csproj.SuggestedBindingRedirects.cache
+D:\lập trình\toi_uu_chi_phi\winform\obj\Debug\winform.test.resources
+D:\lập trình\toi_uu_chi_phi\winform\obj\Debug\winform.Properties.Resources.resources
+D:\lập trình\toi_uu_chi_phi\winform\obj\Debug\winform.csproj.GenerateResource.cache
+D:\lập trình\toi_uu_chi_phi\winform\obj\Debug\winform.csproj.CoreCompileInputs.cache
+D:\lập trình\toi_uu_chi_phi\winform\obj\Debug\winform.exe
+D:\lập trình\toi_uu_chi_phi\winform\obj\Debug\winform.pdb
